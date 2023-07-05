@@ -1,7 +1,6 @@
 # I put code here ig
-## Quality not guaranteed
 
-![image](https://github.com/poopdawguwu/poopdawguwu/blob/main/files/Funny%20monke.png)
+![image](https://github.com/poopdawguwu/poopdawguwu/blob/main/files/Funny%20monke.png)![image](https://github.com/poopdawguwu/poopdawguwu/blob/main/files/Funny%20monke.png)
 
 <!--
 **poopdawguwu/poopdawguwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
